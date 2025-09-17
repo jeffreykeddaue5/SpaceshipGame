@@ -1,0 +1,57 @@
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.vsconfig
+InventorySystem.sln
+
+
+# Ignore build folders
+[Bb]uild/
+[Bb]inaries/
+[Ii]ntermediate/
+DerivedDataCache/
+__ExternalObjects__/
+
+# Ignore saved data
+Saved/
+*.log
+*.tlog
+
+# Ignore compiled assets
+*.pdb
+*.exe
+*.dll
+*.app
+*.dylib
+*.so
+
+# Ignore Unreal auto-generated project files
+*.xcodeproj
+*.xcworkspace
+*.xcuserstate
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains Rider settings
+.idea/
+
+# Ignore crash reports
+*.dmp
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
